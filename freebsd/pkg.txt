@@ -1,0 +1,4 @@
+
+# https://wiki.freebsd.org/PkgPrimer
+
+pkg info -l <pckname>			# list all files in package
